@@ -1,33 +1,33 @@
-"ADD_TO_REACHABILITY" = "Add To Reachability";
+"ADD_TO_REACHABILITY" = "Lägg till i 'Lätt att nå'-vyn";
 
-"ALBUM_ART_CORNER_RADIUS" = "Album Art Corner Radius";
+"ALBUM_ART_CORNER_RADIUS" = "Hörnradie för skivomslag";
 
-"ALBUM_ART_RADIUS_FOOTER_TEXT" = "Not all the view layouts have small album art displayed but if your chosen view does this will control its corner radius. \n *Tap the number to enter a number manually. Decimals are not supported in this popup yet.";
+"ALBUM_ART_RADIUS_FOOTER_TEXT" = "Inte alla layouts har ett litet skivomslag, men om din valda vy har det kommer detta att kontrollera hörnradien. \n *Klicka på numret för att skriva in ett nummer manuellt. Decimaler stöds inte än.";
 
-"ART_OVERLAY_THEME" = "Art Overlay Theme";
+"ART_OVERLAY_THEME" = "Skivomslagets överlappnings-tema";
 
-"COLORIZE_CONTROL_CENTER" = "Colorize Control Center";
+"COLORIZE_CONTROL_CENTER" = "Färga kontrollcenter";
 
-"COLORIZE_CONTROL_CENTER_FOOTER" = "When this option is enabled Bragi will attempt to colorize the Control Center to match the album art. This is experimental at this moment but will be improved with time.";
+"COLORIZE_CONTROL_CENTER_FOOTER" = "När detta alternativet är på kommer Bragi att försöka färga kontrollcenter för att stämma överens med skivomslagets färger. I nuläget är detta ett experimentellt läge, men det kommer förbättras med tiden.";
 
-"CONFIGURATION" = "Configuration";
+"CONFIGURATION" = "Inställningar";
 
-"ENABLE" = "Enable";
+"ENABLE" = "Slå på";
 
-"HIDE_HEART" = "Hide Heart";
+"HIDE_HEART" = "Göm hjärtat";
 
-"HIDE_SHARE" = "Hide Share Action";
+"HIDE_SHARE" = "Göm delningsknappen";
 
-"INVERT_FOOTER_TEXT" = "Some people might like swiping left skipping the song instead of going to the previous track and swiping right going to the previous track.";
+"INVERT_FOOTER_TEXT" = "Några personer kanske tycker om att dra till vänster för att hoppa över en låt (istället för att gå till föregående låt), och dra till höger för att gå till föregående låt.";
 
-"INVERT_SWIPE_ACTIONS" = "Invert Swipe Actions";
+"INVERT_SWIPE_ACTIONS" = "Invertera drag-åtgärderna";
 
-"MAKERS" = "Makers";
+"MAKERS" = "Skaparna";
 
 "SUPPORT" = "Support";
 
-"TRANSLATION_CREDITS" = "Translation Credits";
+"TRANSLATION_CREDITS" = "Översättare";
 
-"USE_CUSTOM_COVER_OVERLAY" = "Use Custom Art Overlay";
+"USE_CUSTOM_COVER_OVERLAY" = "Använd anpassad skivomslags-överlappning";
 
-"USE_VIBRANCY_LABELS" = "Use Vibrancy Labels";
+"USE_VIBRANCY_LABELS" = "Använd pulserande etiketter";
